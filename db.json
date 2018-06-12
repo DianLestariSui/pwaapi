@@ -1,0 +1,23 @@
+{
+"products":[
+{"id":1,"name":"Brown lemur","category":"Teal"},
+{"id":2,"name":"Booby, blue-footed","category":"Indigo"},
+{"id":3,"name":"Green-winged trumpeter","category":"Goldenrod"},
+{"id":4,"name":"Siskin, yellow-rumped","category":"Teal"},
+{"id":5,"name":"Laughing kookaburra","category":"Violet"},
+{"id":6,"name":"Gazelle, thomson's","category":"Blue"},
+{"id":7,"name":"Asiatic wild ass","category":"Turquoise"},
+{"id":8,"name":"Baboon, yellow","category":"Mauv"},
+{"id":9,"name":"Common genet","category":"Puce"},
+{"id":10,"name":"Kangaroo, jungle","category":"Aquamarine"},
+{"id":11,"name":"Woodchuck","category":"Turquoise"},
+{"id":12,"name":"Red-knobbed coot","category":"Fuscia"},
+{"id":13,"name":"Pied butcher bird","category":"Crimson"},
+{"id":14,"name":"Flightless cormorant","category":"Crimson"},
+{"id":15,"name":"Possum, golden brush-tailed","category":"Goldenrod"},
+{"id":16,"name":"Monitor lizard (unidentified)","category":"Yellow"},
+{"id":17,"name":"Stork, jabiru","category":"Yellow"},
+{"id":18,"name":"Gecko, barking","category":"Turquoise"},
+{"id":19,"name":"Bandicoot, short-nosed","category":"Teal"},
+{"id":20,"name":"African buffalo","category":"Mauv"}]
+}
